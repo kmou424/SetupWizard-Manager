@@ -5,8 +5,11 @@
 	<string name="setupwizard_status_summary">SetupWizard 状态: </string>
 	<string name="setupwizard_enabled_text">已启用</string>
 	<string name="setupwizard_disabled_text">已禁用</string>
+	<string name="setupwizard_not_found_text">未安装</string>
 	
 	<string name="summary_text_on_enabled">当前SetupWizard已启用且状态良好，已显示操作区。 </string>
 	<string name="summary_text_on_disabled">当前SetupWizard已被禁用，无法进行操作，请先点击下方 转到"SetupWizard"应用信息  启用SetupWizard再点按刷新以显示操作区来进行操作。</string>
-    
+    <string name="summary_text_not_found">您的手机并未安装SetupWizard，所以本软件失效，您无法进行任何操作。</string>
+	
+	<string name="button_quit_text">退出应用</string>
 </resources>
