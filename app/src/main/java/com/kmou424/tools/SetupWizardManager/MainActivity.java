@@ -149,6 +149,7 @@ public class MainActivity extends Activity {
 			setupwizard_status_summary.setText(getString(R.string.summary_text_not_found));
 			refresh.setText(getString(R.string.button_quit_text));
 			setupwizard_motion_card.setVisibility(View.GONE);
+			go_setupwizard_info.setVisibility(View.GONE);
 		}
 	}
 	
